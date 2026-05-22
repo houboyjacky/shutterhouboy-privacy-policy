@@ -33,4 +33,4 @@ This repository contains official legal documents for **快門手相關服務**,
 
 ---
 
-✍️ Maintained by [快門手相關服務](https://line.me/R/ti/p/@antiscam)
+✍️ Maintained by 快門手相關服務
