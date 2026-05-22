@@ -1,6 +1,11 @@
 # 個人資料授權暨使用告知
 
-感謝您透過「快門手相關服務」官方 LINE 帳號提供資料。為維護您的權益與使用透明度，特此告知如下：
+## 文件導覽
+- 本文件（英文版）：[privacy-policy.en.md](privacy-policy.en.md)
+- 相關文件（免責聲明，中文版）：[disclaimer.zh-TW.md](disclaimer.zh-TW.md)
+- 相關文件（免責聲明，英文版）：[disclaimer.en.md](disclaimer.en.md)
+
+感謝您透過「快門手反詐騙回報中心」官方 LINE 帳號（@antiscam）提供資料。為維護您的權益與使用透明度，特此告知如下：
 
 ---
 

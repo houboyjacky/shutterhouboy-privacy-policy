@@ -1,5 +1,10 @@
 # Personal Data Authorization and Usage Notice (Shutter Mystic Domain)
 
+## Document Navigation
+- This document (Traditional Chinese): [privacy-policy.zh-TW.md](privacy-policy.zh-TW.md)
+- Related document (Disclaimer, English): [disclaimer.en.md](disclaimer.en.md)
+- Related document (Disclaimer, Traditional Chinese): [disclaimer.zh-TW.md](disclaimer.zh-TW.md)
+
 Thank you for using the Shutter Mystic Domain service (the "Service"). To protect your rights and ensure transparency in personal data practices, we hereby explain how your personal data is collected, processed, and used in accordance with applicable data protection laws and regulations.
 
 ---

@@ -1,36 +1,30 @@
-# 快門手相關服務 Legal Docs
-快門手相關服務 — 法律文件庫
+# 快門手服務法律文件庫
 
-本倉庫用於公開與整理「快門手相關服務」相關的法律文件，包括個人資料授權聲明與免責聲明，讓使用者與合作單位能清楚了解資料使用範圍與權責。
+本倉庫用於公開與整理快門手各服務之正式法律文件，包含個人資料授權暨使用告知與免責聲明。
 
-This repository contains official legal documents for **快門手相關服務**, including personal data authorization statements and disclaimers. It ensures transparency regarding data usage and liability.
-
----
-
-## 📂 文件內容 / Documents
-
-### 1. 個資聲明 (Privacy Policy & Personal Data Authorization)
-- **中文版**：[privacy-policy.zh-TW.md](privacy-policy.zh-TW.md)
-- **English**：[privacy-policy.en.md](privacy-policy.en.md)
-
-### 2. 免責聲明 (Disclaimer)
-- **中文版**：[disclaimer.zh-TW.md](disclaimer.zh-TW.md)
-- **English**：[disclaimer.en.md](disclaimer.en.md)
+This repository contains official legal documents for Shutter services, including Personal Data Authorization and Usage Notices, and Disclaimers.
 
 ---
 
-## 📌 說明 / Notes
-- 所有文件皆依《台灣個人資料保護法》與相關規範進行撰寫，並保留彈性以利配合政府機關或合作單位。
-- 文件提供中、英文版本，供不同使用者參考。
-- 本倉庫會隨業務發展持續更新，最新版本以此 GitHub 為準。
+## 服務文件索引 / Service Index
+
+### 1. 快門手反詐騙回報中心（官方賴：@antiscam）
+- 資料夾：[antiscam](antiscam)
+- 個人資料授權暨使用告知（中文）：[antiscam/privacy-policy.zh-TW.md](antiscam/privacy-policy.zh-TW.md)
+- Personal Data Authorization and Usage Notice (EN): [antiscam/privacy-policy.en.md](antiscam/privacy-policy.en.md)
+- 免責聲明（中文）：[antiscam/disclaimer.zh-TW.md](antiscam/disclaimer.zh-TW.md)
+- Disclaimer (EN): [antiscam/disclaimer.en.md](antiscam/disclaimer.en.md)
+
+### 2. 快門手神秘領域
+- 資料夾：[astropath-domain](astropath-domain)
+- 個人資料授權暨使用告知（中文）：[astropath-domain/privacy-policy.zh-TW.md](astropath-domain/privacy-policy.zh-TW.md)
+- Personal Data Authorization and Usage Notice (EN): [astropath-domain/privacy-policy.en.md](astropath-domain/privacy-policy.en.md)
+- 免責聲明（中文）：[astropath-domain/disclaimer.zh-TW.md](astropath-domain/disclaimer.zh-TW.md)
+- Disclaimer (EN): [astropath-domain/disclaimer.en.md](astropath-domain/disclaimer.en.md)
 
 ---
 
-## 🛡 使用提醒 / Disclaimer
-- 文件僅供 **「快門手相關服務」官方平台** 使用。
+## 說明 / Notes
+- 文件依《台灣個人資料保護法》及相關規範撰寫。
+- 各服務文件獨立維護，請以各服務資料夾內最新版本為準。
 - 如需引用或二次使用，請保留來源註記。
-- 本文件內容可能因法規或實務需要隨時調整。
-
----
-
-✍️ Maintained by 快門手相關服務

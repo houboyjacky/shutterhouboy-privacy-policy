@@ -1,5 +1,10 @@
 # 個人資料授權暨使用告知（快門手神秘領域）
 
+## 文件導覽
+- 本文件（英文版）：[privacy-policy.en.md](privacy-policy.en.md)
+- 相關文件（免責聲明，中文版）：[disclaimer.zh-TW.md](disclaimer.zh-TW.md)
+- 相關文件（免責聲明，英文版）：[disclaimer.en.md](disclaimer.en.md)
+
 感謝您使用「快門手神秘領域」相關服務（下稱本服務）。為維護您的權益並保障個人資料之安全與使用透明度，特依個人資料保護相關規範，向您說明本服務蒐集、處理與利用個人資料之事項如下：
 
 ---

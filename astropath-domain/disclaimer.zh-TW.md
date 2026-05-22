@@ -1,5 +1,10 @@
 # 免責聲明（快門手神秘領域）
 
+## 文件導覽
+- 本文件（英文版）：[disclaimer.en.md](disclaimer.en.md)
+- 相關文件（個人資料授權暨使用告知，中文版）：[privacy-policy.zh-TW.md](privacy-policy.zh-TW.md)
+- 相關文件（個人資料授權暨使用告知，英文版）：[privacy-policy.en.md](privacy-policy.en.md)
+
 本免責聲明適用於「快門手神秘領域」相關服務（下稱本服務）。您使用本服務，即表示您已閱讀、理解並同意以下內容。
 
 ---

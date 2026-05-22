@@ -1,5 +1,10 @@
 # Disclaimer (Shutter Mystic Domain)
 
+## Document Navigation
+- This document (Traditional Chinese): [disclaimer.zh-TW.md](disclaimer.zh-TW.md)
+- Related document (Personal Data Authorization and Usage Notice, English): [privacy-policy.en.md](privacy-policy.en.md)
+- Related document (Personal Data Authorization and Usage Notice, Traditional Chinese): [privacy-policy.zh-TW.md](privacy-policy.zh-TW.md)
+
 This Disclaimer applies to the Shutter Mystic Domain service (the "Service"). By using the Service, you acknowledge that you have read, understood, and agreed to the following terms.
 
 ---

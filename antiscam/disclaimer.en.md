@@ -1,6 +1,11 @@
 # Disclaimer
 
-This platform, the **快門手相關服務** official LINE account, provides a service that allows users to check whether suspicious websites or IDs are listed in our blacklist, and to submit fraud-related information.
+## Document Navigation
+- This document (Traditional Chinese): [disclaimer.zh-TW.md](disclaimer.zh-TW.md)
+- Related document (Personal Data Authorization and Usage Notice, English): [privacy-policy.en.md](privacy-policy.en.md)
+- Related document (Personal Data Authorization and Usage Notice, Traditional Chinese): [privacy-policy.zh-TW.md](privacy-policy.zh-TW.md)
+
+This platform, the **快門手反詐騙回報中心** official LINE account (@antiscam), provides a service that allows users to check whether suspicious websites or IDs are listed in our blacklist, and to submit fraud-related information.
 
 ---
 

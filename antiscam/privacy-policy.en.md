@@ -1,6 +1,11 @@
 # Personal Data Authorization and Usage Notice
 
-Thank you for providing information through the **快門手相關服務** official LINE account. To safeguard your rights and ensure transparency, we hereby notify you as follows:
+## Document Navigation
+- This document (Traditional Chinese): [privacy-policy.zh-TW.md](privacy-policy.zh-TW.md)
+- Related document (Disclaimer, English): [disclaimer.en.md](disclaimer.en.md)
+- Related document (Disclaimer, Traditional Chinese): [disclaimer.zh-TW.md](disclaimer.zh-TW.md)
+
+Thank you for providing information through the **快門手反詐騙回報中心** official LINE account (@antiscam). To safeguard your rights and ensure transparency, we hereby notify you as follows:
 
 ---
 

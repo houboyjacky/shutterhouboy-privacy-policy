@@ -1,6 +1,11 @@
 # 免責聲明
 
-本平台為「快門手相關服務」官方 LINE 帳號，提供使用者查詢可疑網址與 ID 是否存在於黑名單中，並接受使用者回報詐騙相關資訊。
+## 文件導覽
+- 本文件（英文版）：[disclaimer.en.md](disclaimer.en.md)
+- 相關文件（個人資料授權暨使用告知，中文版）：[privacy-policy.zh-TW.md](privacy-policy.zh-TW.md)
+- 相關文件（個人資料授權暨使用告知，英文版）：[privacy-policy.en.md](privacy-policy.en.md)
+
+本平台為「快門手反詐騙回報中心」官方 LINE 帳號（@antiscam），提供使用者查詢可疑網址與 ID 是否存在於黑名單中，並接受使用者回報詐騙相關資訊。
 
 ---
 
