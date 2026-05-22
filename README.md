@@ -1,9 +1,9 @@
-# @Antiscam Legal Docs
-快門手反詐騙回報中心 — 法律文件庫
+# 快門手相關服務 Legal Docs
+快門手相關服務 — 法律文件庫
 
-本倉庫用於公開與整理「快門手反詐騙回報中心」相關的法律文件，包括個人資料授權聲明與免責聲明，讓使用者與合作單位能清楚了解資料使用範圍與權責。
+本倉庫用於公開與整理「快門手相關服務」相關的法律文件，包括個人資料授權聲明與免責聲明，讓使用者與合作單位能清楚了解資料使用範圍與權責。
 
-This repository contains official legal documents for **快門手反詐騙回報中心**, including personal data authorization statements and disclaimers. It ensures transparency regarding data usage and liability.
+This repository contains official legal documents for **快門手相關服務**, including personal data authorization statements and disclaimers. It ensures transparency regarding data usage and liability.
 
 ---
 
@@ -27,10 +27,10 @@ This repository contains official legal documents for **快門手反詐騙回報
 ---
 
 ## 🛡 使用提醒 / Disclaimer
-- 文件僅供 **「快門手反詐騙」官方平台** 使用。
+- 文件僅供 **「快門手相關服務」官方平台** 使用。
 - 如需引用或二次使用，請保留來源註記。
 - 本文件內容可能因法規或實務需要隨時調整。
 
 ---
 
-✍️ Maintained by [快門手反詐騙回報中心](https://line.me/R/ti/p/@antiscam)
+✍️ Maintained by [快門手相關服務](https://line.me/R/ti/p/@antiscam)

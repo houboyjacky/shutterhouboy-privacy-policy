@@ -1,6 +1,6 @@
 # Personal Data Authorization and Usage Notice
 
-Thank you for providing information through the **快門手反詐騙回報中心** official LINE account. To safeguard your rights and ensure transparency, we hereby notify you as follows:
+Thank you for providing information through the **快門手相關服務** official LINE account. To safeguard your rights and ensure transparency, we hereby notify you as follows:
 
 ---
 

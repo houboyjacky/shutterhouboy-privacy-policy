@@ -1,6 +1,6 @@
 # Disclaimer
 
-This platform, the **快門手反詐騙回報中心** official LINE account, provides a service that allows users to check whether suspicious websites or IDs are listed in our blacklist, and to submit fraud-related information.
+This platform, the **快門手相關服務** official LINE account, provides a service that allows users to check whether suspicious websites or IDs are listed in our blacklist, and to submit fraud-related information.
 
 ---
 
